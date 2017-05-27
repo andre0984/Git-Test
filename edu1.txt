@@ -3,10 +3,14 @@ Modified One
 
 modified before rebase by firstbranch
 
+<<<<<<< HEAD
 di edit dari local repo 9 - local 
 local
 local
 local
+=======
+di edit dari local repo 8-cloud third
+>>>>>>> bdfb511eb8ec2903a9ec180295dc6dc4d4ccc0bb
 diedit online dari github
 
 add some changes
