@@ -3,5 +3,10 @@ Modified One
 
 modified before rebase by firstbranch
 
-di edit dari local repo 8-cloud second
+di edit dari local repo 9 - local 
+local
+local
+local
 diedit online dari github
+
+add some changes
