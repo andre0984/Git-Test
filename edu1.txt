@@ -3,9 +3,5 @@ Modified One
 
 modified before rebase by firstbranch
 
-<<<<<<< HEAD
 di edit dari local repo 999999-local
-=======
-di edit dari local repo 8888888-online
->>>>>>> 1877bdea1a571cad2cec9ceff28b8c71c626daf3
 diedit online dari github
