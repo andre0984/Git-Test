@@ -1,2 +1,4 @@
 FirstFile
 Modified One
+
+modified before rebase by firstbranch
